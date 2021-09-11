@@ -3,3 +3,4 @@ Youtube clone website. it Does not look or work exactly like youtube. mainy made
 Demo is available.
 index.html for HTML code
 style.css for Style sheet
+Icon images are given
